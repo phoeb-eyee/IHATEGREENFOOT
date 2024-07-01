@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WaterWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ WaterWorld\ here.\n\ \n
+comment1.params=
+comment1.target=WaterWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WaterWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ dropGold()
+comment4.params=
+comment4.target=void\ dropKrabbyPatty()
+comment5.params=
+comment5.target=void\ dropCrabTrap()
+comment6.params=
+comment6.target=void\ prepare()
+comment7.params=text\ x\ y\ identifier
+comment7.target=void\ updateText(java.lang.String,\ int,\ int,\ java.lang.String)
+comment8.params=
+comment8.target=void\ updateTexts()
+numComments=9

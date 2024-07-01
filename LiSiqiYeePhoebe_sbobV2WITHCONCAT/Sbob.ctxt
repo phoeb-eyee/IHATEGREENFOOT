@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sbob
+comment0.text=\n\ Write\ a\ description\ of\ class\ Sbob\ here.\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ updateText()
+comment3.params=
+comment3.target=boolean\ canCatchGold()
+comment4.params=
+comment4.target=void\ catchGold()
+comment5.params=
+comment5.target=boolean\ canCatchKrabbyPatty()
+comment6.params=
+comment6.target=void\ catchKrabbyPatty()
+comment7.params=
+comment7.target=boolean\ canCatchCrabTrap()
+comment8.params=
+comment8.target=void\ catchCrabTrap()
+numComments=9
